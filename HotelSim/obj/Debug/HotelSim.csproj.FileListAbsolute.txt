@@ -1,0 +1,13 @@
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\bin\Debug\HotelSim.exe.config
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\bin\Debug\HotelSim.exe
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\bin\Debug\HotelSim.pdb
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\bin\Debug\HotelEvents.dll
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.csprojResolveAssemblyReference.cache
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.Simulation.resources
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.Options.resources
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.Properties.Resources.resources
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.csproj.GenerateResource.Cache
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.exe
+C:\Users\tomgr\Source\Workspaces\NewHotelSim\new-hotel-sim\HotelSim\obj\Debug\HotelSim.pdb

@@ -1,5 +1,5 @@
 # HotelSimulatie
-For a school prject we had to create a hotel simulation that could show the fastest path trough the hotel by using pathfinding and elevator algorithms.
+For a school project we had to create a hotel simulation that could show the fastest path trough the hotel by using pathfinding and elevator algorithms.
 
 For this project we received a 7 as grade.
 
